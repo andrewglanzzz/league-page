@@ -186,7 +186,8 @@
 		width: 100%;
 		margin-bottom: 5px;
 		display: flex;
-		justify-content: space-around;
+		justify-content: start;
+		gap: 5px;
 	}
 
 	.result {
