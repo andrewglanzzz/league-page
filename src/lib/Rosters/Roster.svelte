@@ -187,7 +187,7 @@
 		margin-bottom: 5px;
 		display: flex;
 		justify-content: start;
-		gap: 5px;
+		gap: 10px;
 	}
 
 	.result {
